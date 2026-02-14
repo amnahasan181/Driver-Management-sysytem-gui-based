@@ -1,2 +1,4 @@
 # Driver Management-System-gui-based
-Developed desktop app for balance check, deposit, withdrawal, and transfers. Designed interactive GUI using Java Swing. Implemented transaction validation and event handling.
+Implemented Queue, Stack, Linked List, and Array for rider/driver management.
+Applied Bubble Sort to rank drivers by rating/distance.
+Built GUI to simulate ride assignment.
